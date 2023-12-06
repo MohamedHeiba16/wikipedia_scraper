@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><country_name>None</country_name><region>None</region><forecast>None</forecast><year>None</year></item>
+<item><country_name>None</country_name><region>None</region><forecast>None</forecast><year>None</year></item>
+<item><country_name>None</country_name><region>None</region><forecast>104,476,432</forecast><year>2023</year></item>
+<item><country_name>United States</country_name><region>Americas</region><forecast>26,949,643</forecast><year>2023</year></item>
+<item><country_name>China</country_name><region>Asia</region><forecast>17,700,899</forecast><year>2023</year></item>
+<item><country_name>Germany</country_name><region>Europe</region><forecast>4,429,838</forecast><year>2023</year></item>
+<item><country_name>Japan</country_name><region>Asia</region><forecast>4,230,862</forecast><year>2023</year></item>
+<item><country_name>India</country_name><region>Asia</region><forecast>3,732,224</forecast><year>2023</year></item>
+<item><country_name>United Kingdom</country_name><region>Europe</region><forecast>3,332,059</forecast><year>2023</year></item>
+<item><country_name>France</country_name><region>Europe</region><forecast>3,049,016</forecast><year>2023</year></item>
+<item><country_name>Italy</country_name><region>Europe</region><forecast>2,186,082</forecast><year>2023</year></item>
+<item><country_name>Brazil</country_name><region>Americas</region><forecast>2,126,809</forecast><year>2023</year></item>
+<item><country_name>Canada</country_name><region>Americas</region><forecast>2,117,805</forecast><year>2023</year></item>
+<item><country_name>Russia</country_name><region>Europe</region><forecast>1,862,470</forecast><year>2023</year></item>
+<item><country_name>Mexico</country_name><region>Americas</region><forecast>1,811,468</forecast><year>2023</year></item>
+<item><country_name>South Korea</country_name><region>Asia</region><forecast>1,709,232</forecast><year>2023</year></item>
+<item><country_name>Australia</country_name><region>Oceania</region><forecast>1,687,713</forecast><year>2023</year></item>
+<item><country_name>Spain</country_name><region>Europe</region><forecast>1,582,054</forecast><year>2023</year></item>
+<item><country_name>Indonesia</country_name><region>Asia</region><forecast>1,417,387</forecast><year>2023</year></item>
+<item><country_name>Turkey</country_name><region>Asia</region><forecast>1,154,600</forecast><year>2023</year></item>
+<item><country_name>Netherlands</country_name><region>Europe</region><forecast>1,092,748</forecast><year>2023</year></item>
+<item><country_name>Saudi Arabia</country_name><region>Asia</region><forecast>1,069,437</forecast><year>2023</year></item>
+<item><country_name>Switzerland</country_name><region>Europe</region><forecast>905,684</forecast><year>2023</year></item>
+<item><country_name>Poland</country_name><region>Europe</region><forecast>842,172</forecast><year>2023</year></item>
+<item><country_name>Taiwan</country_name><region>Asia</region><forecast>751,930</forecast><year>2023</year></item>
+<item><country_name>Belgium</country_name><region>Europe</region><forecast>627,511</forecast><year>2023</year></item>
+<item><country_name>Argentina</country_name><region>Americas</region><forecast>621,833</forecast><year>2023</year></item>
+<item><country_name>Sweden</country_name><region>Europe</region><forecast>597,110</forecast><year>2023</year></item>
+<item><country_name>Ireland</country_name><region>Europe</region><forecast>589,569</forecast><year>2023</year></item>
+<item><country_name>Norway</country_name><region>Europe</region><forecast>546,768</forecast><year>2023</year></item>
+<item><country_name>Austria</country_name><region>Europe</region><forecast>526,182</forecast><year>2023</year></item>
+<item><country_name>Israel</country_name><region>Asia</region><forecast>521,688</forecast><year>2023</year></item>
+<item><country_name>Thailand</country_name><region>Asia</region><forecast>512,193</forecast><year>2023</year></item>
+<item><country_name>United Arab Emirates</country_name><region>Asia</region><forecast>509,179</forecast><year>2023</year></item>
+<item><country_name>Singapore</country_name><region>Asia</region><forecast>497,347</forecast><year>2023</year></item>
+<item><country_name>Bangladesh</country_name><region>Asia</region><forecast>446,349</forecast><year>2023</year></item>
+<item><country_name>Philippines</country_name><region>Asia</region><forecast>435,675</forecast><year>2023</year></item>
+<item><country_name>Vietnam</country_name><region>Asia</region><forecast>433,356</forecast><year>2023</year></item>
+<item><country_name>Malaysia</country_name><region>Asia</region><forecast>430,895</forecast><year>2023</year></item>
+<item><country_name>Denmark</country_name><region>Europe</region><forecast>420,800</forecast><year>2023</year></item>
+<item><country_name>Egypt</country_name><region>Africa</region><forecast>398,397</forecast><year>2023</year></item>
+<item><country_name>Nigeria</country_name><region>Africa</region><forecast>390,002</forecast><year>2023</year></item>
+<item><country_name>Hong Kong</country_name><region>Asia</region><forecast>385,546</forecast><year>2023</year></item>
+<item><country_name>South Africa</country_name><region>Africa</region><forecast>380,906</forecast><year>2023</year></item>
+<item><country_name>Iran</country_name><region>Asia</region><forecast>366,438</forecast><year>2023</year></item>
+<item><country_name>Colombia</country_name><region>Americas</region><forecast>363,835</forecast><year>2023</year></item>
+<item><country_name>Romania</country_name><region>Europe</region><forecast>350,414</forecast><year>2023</year></item>
+<item><country_name>Chile</country_name><region>Americas</region><forecast>344,400</forecast><year>2023</year></item>
+<item><country_name>Pakistan</country_name><region>Asia</region><forecast>340,636</forecast><year>2023</year></item>
+<item><country_name>Czech Republic</country_name><region>Europe</region><forecast>335,243</forecast><year>2023</year></item>
+<item><country_name>Finland</country_name><region>Europe</region><forecast>305,689</forecast><year>2023</year></item>
+<item><country_name>Portugal</country_name><region>Europe</region><forecast>276,432</forecast><year>2023</year></item>
+<item><country_name>Peru</country_name><region>Americas</region><forecast>264,636</forecast><year>2023</year></item>
+<item><country_name>Kazakhstan</country_name><region>Asia</region><forecast>259,292</forecast><year>2023</year></item>
+<item><country_name>Iraq</country_name><region>Asia</region><forecast>254,993</forecast><year>2023</year></item>
+<item><country_name>New Zealand</country_name><region>Oceania</region><forecast>249,415</forecast><year>2023</year></item>
+<item><country_name>Greece</country_name><region>Europe</region><forecast>242,385</forecast><year>2023</year></item>
+<item><country_name>Qatar</country_name><region>Asia</region><forecast>235,500</forecast><year>2023</year></item>
+<item><country_name>Algeria</country_name><region>Africa</region><forecast>224,107</forecast><year>2023</year></item>
+<item><country_name>Hungary</country_name><region>Europe</region><forecast>203,829</forecast><year>2023</year></item>
+<item><country_name>Ukraine</country_name><region>Europe</region><forecast>173,413</forecast><year>2023</year></item>
+<item><country_name>Kuwait</country_name><region>Asia</region><forecast>159,687</forecast><year>2023</year></item>
+<item><country_name>Ethiopia</country_name><region>Africa</region><forecast>155,804</forecast><year>2023</year></item>
+<item><country_name>Morocco</country_name><region>Africa</region><forecast>147,343</forecast><year>2023</year></item>
+<item><country_name>Slovakia</country_name><region>Europe</region><forecast>133,044</forecast><year>2023</year></item>
+<item><country_name>Cuba</country_name><region>Americas</region><forecast>—</forecast><year>107,352</year></item>
+<item><country_name>Dominican Republic</country_name><region>Americas</region><forecast>120,629</forecast><year>2023</year></item>
+<item><country_name>Ecuador</country_name><region>Americas</region><forecast>118,686</forecast><year>2023</year></item>
+<item><country_name>Puerto Rico</country_name><region>Americas</region><forecast>117,515</forecast><year>2023</year></item>
+<item><country_name>Kenya</country_name><region>Africa</region><forecast>112,749</forecast><year>2023</year></item>
+<item><country_name>Oman</country_name><region>Asia</region><forecast>108,282</forecast><year>2023</year></item>
+<item><country_name>Bulgaria</country_name><region>Europe</region><forecast>103,099</forecast><year>2023</year></item>
+<item><country_name>Guatemala</country_name><region>Americas</region><forecast>102,765</forecast><year>2023</year></item>
+<item><country_name>Angola</country_name><region>Africa</region><forecast>93,796</forecast><year>2023</year></item>
+<item><country_name>Venezuela</country_name><region>Americas</region><forecast>92,210</forecast><year>2023</year></item>
+<item><country_name>Uzbekistan</country_name><region>Asia</region><forecast>90,392</forecast><year>2023</year></item>
+<item><country_name>Luxembourg</country_name><region>Europe</region><forecast>89,095</forecast><year>2023</year></item>
+<item><country_name>Costa Rica</country_name><region>Americas</region><forecast>85,590</forecast><year>2023</year></item>
+<item><country_name>Tanzania</country_name><region>Africa</region><forecast>84,033</forecast><year>2023</year></item>
+<item><country_name>Panama</country_name><region>Americas</region><forecast>82,348</forecast><year>2023</year></item>
+<item><country_name>Turkmenistan</country_name><region>Asia</region><forecast>81,822</forecast><year>2023</year></item>
+<item><country_name>Croatia</country_name><region>Europe</region><forecast>80,185</forecast><year>2023</year></item>
+<item><country_name>Ivory Coast</country_name><region>Africa</region><forecast>79,430</forecast><year>2023</year></item>
+<item><country_name>Lithuania</country_name><region>Europe</region><forecast>79,427</forecast><year>2023</year></item>
+<item><country_name>Azerbaijan</country_name><region>Asia</region><forecast>77,392</forecast><year>2023</year></item>
+<item><country_name>Ghana</country_name><region>Africa</region><forecast>76,628</forecast><year>2023</year></item>
+<item><country_name>Uruguay</country_name><region>Americas</region><forecast>76,244</forecast><year>2023</year></item>
+<item><country_name>Serbia</country_name><region>Europe</region><forecast>75,015</forecast><year>2023</year></item>
+<item><country_name>Myanmar</country_name><region>Asia</region><forecast>74,861</forecast><year>2023</year></item>
+<item><country_name>Sri Lanka</country_name><region>Asia</region><forecast>—</forecast><year>74,404</year></item>
+<item><country_name>Belarus</country_name><region>Europe</region><forecast>68,864</forecast><year>2023</year></item>
+<item><country_name>Slovenia</country_name><region>Europe</region><forecast>68,394</forecast><year>2023</year></item>
+<item><country_name>DR Congo</country_name><region>Africa</region><forecast>67,512</forecast><year>2023</year></item>
+<item><country_name>Uganda</country_name><region>Africa</region><forecast>52,390</forecast><year>2023</year></item>
+<item><country_name>Tunisia</country_name><region>Africa</region><forecast>51,271</forecast><year>2023</year></item>
+<item><country_name>Jordan</country_name><region>Asia</region><forecast>50,022</forecast><year>2023</year></item>
+<item><country_name>Cameroon</country_name><region>Africa</region><forecast>49,262</forecast><year>2023</year></item>
+<item><country_name>Bolivia</country_name><region>Americas</region><forecast>46,796</forecast><year>2023</year></item>
+<item><country_name>Latvia</country_name><region>Europe</region><forecast>46,668</forecast><year>2023</year></item>
+<item><country_name>Bahrain</country_name><region>Asia</region><forecast>44,994</forecast><year>2023</year></item>
+<item><country_name>Paraguay</country_name><region>Americas</region><forecast>44,142</forecast><year>2023</year></item>
+<item><country_name>Estonia</country_name><region>Europe</region><forecast>41,799</forecast><year>2023</year></item>
+<item><country_name>Nepal</country_name><region>Asia</region><forecast>41,339</forecast><year>2023</year></item>
+<item><country_name>Libya</country_name><region>Africa</region><forecast>40,194</forecast><year>2023</year></item>
+<item><country_name>Macau</country_name><region>Asia</region><forecast>38,480</forecast><year>2023</year></item>
+<item><country_name>Lebanon</country_name><region>Asia</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>El Salvador</country_name><region>Americas</region><forecast>35,339</forecast><year>2023</year></item>
+<item><country_name>Honduras</country_name><region>Americas</region><forecast>33,992</forecast><year>2023</year></item>
+<item><country_name>Zimbabwe</country_name><region>Africa</region><forecast>32,424</forecast><year>2023</year></item>
+<item><country_name>Cyprus</country_name><region>Asia</region><forecast>32,032</forecast><year>2023</year></item>
+<item><country_name>Papua New Guinea</country_name><region>Oceania</region><forecast>31,692</forecast><year>2023</year></item>
+<item><country_name>Senegal</country_name><region>Africa</region><forecast>31,141</forecast><year>2023</year></item>
+<item><country_name>Cambodia</country_name><region>Asia</region><forecast>30,943</forecast><year>2023</year></item>
+<item><country_name>Iceland</country_name><region>Europe</region><forecast>30,570</forecast><year>2023</year></item>
+<item><country_name>Georgia</country_name><region>Europe</region><forecast>30,023</forecast><year>2023</year></item>
+<item><country_name>Zambia</country_name><region>Africa</region><forecast>29,536</forecast><year>2023</year></item>
+<item><country_name>Trinidad and Tobago</country_name><region>Americas</region><forecast>27,887</forecast><year>2023</year></item>
+<item><country_name>Bosnia and Herzegovina</country_name><region>Europe</region><forecast>26,945</forecast><year>2023</year></item>
+<item><country_name>Haiti</country_name><region>Americas</region><forecast>25,986</forecast><year>2023</year></item>
+<item><country_name>Sudan</country_name><region>Africa</region><forecast>25,569</forecast><year>2023</year></item>
+<item><country_name>Armenia</country_name><region>Asia</region><forecast>24,540</forecast><year>2023</year></item>
+<item><country_name>Guinea</country_name><region>Africa</region><forecast>23,205</forecast><year>2023</year></item>
+<item><country_name>Albania</country_name><region>Europe</region><forecast>23,032</forecast><year>2023</year></item>
+<item><country_name>Mozambique</country_name><region>Africa</region><forecast>21,936</forecast><year>2023</year></item>
+<item><country_name>Mali</country_name><region>Africa</region><forecast>21,309</forecast><year>2023</year></item>
+<item><country_name>Yemen</country_name><region>Asia</region><forecast>21,045</forecast><year>2023</year></item>
+<item><country_name>Burkina Faso</country_name><region>Africa</region><forecast>20,785</forecast><year>2023</year></item>
+<item><country_name>Botswana</country_name><region>Africa</region><forecast>20,756</forecast><year>2023</year></item>
+<item><country_name>Malta</country_name><region>Europe</region><forecast>20,311</forecast><year>2023</year></item>
+<item><country_name>Benin</country_name><region>Africa</region><forecast>19,940</forecast><year>2023</year></item>
+<item><country_name>Syria</country_name><region>Asia</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Gabon</country_name><region>Africa</region><forecast>19,319</forecast><year>2023</year></item>
+<item><country_name>Palestine</country_name><region>Asia</region><forecast>18,109</forecast><year>2021</year></item>
+<item><country_name>Mongolia</country_name><region>Asia</region><forecast>18,782</forecast><year>2023</year></item>
+<item><country_name>Jamaica</country_name><region>Americas</region><forecast>18,761</forecast><year>2023</year></item>
+<item><country_name>Nicaragua</country_name><region>Americas</region><forecast>17,353</forecast><year>2023</year></item>
+<item><country_name>Niger</country_name><region>Africa</region><forecast>17,073</forecast><year>2023</year></item>
+<item><country_name>North Korea</country_name><region>Asia</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Guyana</country_name><region>Americas</region><forecast>16,329</forecast><year>2023</year></item>
+<item><country_name>Moldova</country_name><region>Europe</region><forecast>16,000</forecast><year>2023</year></item>
+<item><country_name>North Macedonia</country_name><region>Europe</region><forecast>15,801</forecast><year>2023</year></item>
+<item><country_name>Madagascar</country_name><region>Africa</region><forecast>15,763</forecast><year>2023</year></item>
+<item><country_name>Brunei</country_name><region>Asia</region><forecast>15,153</forecast><year>2023</year></item>
+<item><country_name>Afghanistan</country_name><region>Asia</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Mauritius</country_name><region>Africa</region><forecast>14,819</forecast><year>2023</year></item>
+<item><country_name>Congo</country_name><region>Africa</region><forecast>14,407</forecast><year>2023</year></item>
+<item><country_name>Laos</country_name><region>Asia</region><forecast>14,244</forecast><year>2023</year></item>
+<item><country_name>Rwanda</country_name><region>Africa</region><forecast>13,927</forecast><year>2023</year></item>
+<item><country_name>Bahamas</country_name><region>Americas</region><forecast>13,876</forecast><year>2023</year></item>
+<item><country_name>Malawi</country_name><region>Africa</region><forecast>13,176</forecast><year>2023</year></item>
+<item><country_name>Kyrgyzstan</country_name><region>Asia</region><forecast>12,681</forecast><year>2023</year></item>
+<item><country_name>Namibia</country_name><region>Africa</region><forecast>12,647</forecast><year>2023</year></item>
+<item><country_name>Chad</country_name><region>Africa</region><forecast>12,596</forecast><year>2023</year></item>
+<item><country_name>Tajikistan</country_name><region>Asia</region><forecast>11,816</forecast><year>2023</year></item>
+<item><country_name>Somalia</country_name><region>Africa</region><forecast>11,515</forecast><year>2023</year></item>
+<item><country_name>Kosovo</country_name><region>Europe</region><forecast>10,469</forecast><year>2023</year></item>
+<item><country_name>Mauritania</country_name><region>Africa</region><forecast>10,357</forecast><year>2023</year></item>
+<item><country_name>New Caledonia</country_name><region>Oceania</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Equatorial Guinea</country_name><region>Africa</region><forecast>10,041</forecast><year>2023</year></item>
+<item><country_name>Togo</country_name><region>Africa</region><forecast>9,111</forecast><year>2023</year></item>
+<item><country_name>Monaco</country_name><region>Europe</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Bermuda</country_name><region>Americas</region><forecast>—</forecast><year>7,551</year></item>
+<item><country_name>Montenegro</country_name><region>Europe</region><forecast>7,058</forecast><year>2023</year></item>
+<item><country_name>Maldives</country_name><region>Asia</region><forecast>6,977</forecast><year>2023</year></item>
+<item><country_name>Liechtenstein</country_name><region>Europe</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>South Sudan</country_name><region>Africa</region><forecast>6,267</forecast><year>2023</year></item>
+<item><country_name>Barbados</country_name><region>Americas</region><forecast>6,220</forecast><year>2023</year></item>
+<item><country_name>French Polynesia</country_name><region>Oceania</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Cayman Islands</country_name><region>Americas</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Fiji</country_name><region>Oceania</region><forecast>5,511</forecast><year>2023</year></item>
+<item><country_name>Eswatini</country_name><region>Africa</region><forecast>4,648</forecast><year>2023</year></item>
+<item><country_name>Liberia</country_name><region>Africa</region><forecast>4,347</forecast><year>2023</year></item>
+<item><country_name>Djibouti</country_name><region>Africa</region><forecast>3,873</forecast><year>2023</year></item>
+<item><country_name>Aruba</country_name><region>Americas</region><forecast>3,827</forecast><year>2023</year></item>
+<item><country_name>Andorra</country_name><region>Europe</region><forecast>3,692</forecast><year>2023</year></item>
+<item><country_name>Suriname</country_name><region>Americas</region><forecast>3,539</forecast><year>2023</year></item>
+<item><country_name>Sierra Leone</country_name><region>Africa</region><forecast>3,519</forecast><year>2023</year></item>
+<item><country_name>Greenland</country_name><region>Americas</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Belize</country_name><region>Americas</region><forecast>3,218</forecast><year>2023</year></item>
+<item><country_name>Burundi</country_name><region>Africa</region><forecast>3,190</forecast><year>2023</year></item>
+<item><country_name>Central African Republic</country_name><region>Africa</region><forecast>2,760</forecast><year>2023</year></item>
+<item><country_name>Curaçao</country_name><region>Americas</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Bhutan</country_name><region>Asia</region><forecast>2,686</forecast><year>2023</year></item>
+<item><country_name>Cape Verde</country_name><region>Africa</region><forecast>2,598</forecast><year>2023</year></item>
+<item><country_name>Saint Lucia</country_name><region>Americas</region><forecast>2,469</forecast><year>2023</year></item>
+<item><country_name>Gambia</country_name><region>Africa</region><forecast>2,388</forecast><year>2023</year></item>
+<item><country_name>Lesotho</country_name><region>Africa</region><forecast>2,373</forecast><year>2023</year></item>
+<item><country_name>Eritrea</country_name><region>Africa</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Seychelles</country_name><region>Africa</region><forecast>2,085</forecast><year>2023</year></item>
+<item><country_name>Zanzibar</country_name><region>Africa</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>East Timor</country_name><region>Asia</region><forecast>2,023</forecast><year>2023</year></item>
+<item><country_name>San Marino</country_name><region>Europe</region><forecast>1,998</forecast><year>2023</year></item>
+<item><country_name>Guinea-Bissau</country_name><region>Africa</region><forecast>1,991</forecast><year>2023</year></item>
+<item><country_name>Antigua and Barbuda</country_name><region>Americas</region><forecast>1,949</forecast><year>2023</year></item>
+<item><country_name>Solomon Islands</country_name><region>Oceania</region><forecast>1,690</forecast><year>2023</year></item>
+<item><country_name>Sint Maarten</country_name><region>Americas</region><forecast>—</forecast><year>1,572</year></item>
+<item><country_name>British Virgin Islands</country_name><region>Americas</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Comoros</country_name><region>Africa</region><forecast>1,364</forecast><year>2023</year></item>
+<item><country_name>Grenada</country_name><region>Americas</region><forecast>1,306</forecast><year>2023</year></item>
+<item><country_name>Vanuatu</country_name><region>Oceania</region><forecast>1,166</forecast><year>2023</year></item>
+<item><country_name>Turks and Caicos Islands</country_name><region>Americas</region><forecast>—</forecast><year>1,139</year></item>
+<item><country_name>Saint Kitts and Nevis</country_name><region>Americas</region><forecast>1,069</forecast><year>2023</year></item>
+<item><country_name>Saint Vincent and the Grenadines</country_name><region>Americas</region><forecast>1,039</forecast><year>2023</year></item>
+<item><country_name>Samoa</country_name><region>Oceania</region><forecast>939</forecast><year>2023</year></item>
+<item><country_name>Dominica</country_name><region>Americas</region><forecast>697</forecast><year>2023</year></item>
+<item><country_name>São Tomé and Príncipe</country_name><region>Africa</region><forecast>674</forecast><year>2023</year></item>
+<item><country_name>Tonga</country_name><region>Oceania</region><forecast>547</forecast><year>2023</year></item>
+<item><country_name>Micronesia</country_name><region>Oceania</region><forecast>458</forecast><year>2023</year></item>
+<item><country_name>Cook Islands</country_name><region>Oceania</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Anguilla</country_name><region>Americas</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Marshall Islands</country_name><region>Oceania</region><forecast>277</forecast><year>2023</year></item>
+<item><country_name>Palau</country_name><region>Oceania</region><forecast>267</forecast><year>2023</year></item>
+<item><country_name>Kiribati</country_name><region>Oceania</region><forecast>246</forecast><year>2023</year></item>
+<item><country_name>Nauru</country_name><region>Oceania</region><forecast>150</forecast><year>2023</year></item>
+<item><country_name>Montserrat</country_name><region>Americas</region><forecast>—</forecast><year>—</year></item>
+<item><country_name>Tuvalu</country_name><region>Oceania</region><forecast>63</forecast><year>2023</year></item>
+</items>
